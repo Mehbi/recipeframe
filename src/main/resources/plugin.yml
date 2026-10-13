@@ -1,0 +1,6 @@
+name: RecipeFrame
+version: '${version}'
+
+main: dev.pixelframestudios.store.recipeFrame.RecipeFrame
+api-version: '1.20.6'
+load: POSTWORLD
